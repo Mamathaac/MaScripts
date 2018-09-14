@@ -1,0 +1,165 @@
+
+https://itest-testclient-sso.telenor.no/ 
+https://attest-testclient-sso.telenor.no/ 
+
+14277,14299,14386 ---- defect id
+
+http://tns-fbu-24-391.corp.telenor.no:8080/qcbin/start_a.jsp --------- qc
+
+https://app.zeplin.io/project/57f394363ff2ee3620cdcf0f/screen/595e165e5c0321659f8eaf7a----------- Zeplin
+ 
+14299---- new defect id
+
+004793018188------- for pre populate page
+
+
+
+Helpdesk.Telenor@evry.com 
+ 
+mari-ann.langvik@telenor.com 
+
+https://source.telenor.no/wiki/pages/viewpage.action?pageId=217764662 --- ask api details(user story).
+
+
+https://source.telenor.no/wiki/pages/viewpage.action?pageId=217757453 ------------ remeber me
+
+http://test2.nettbutikk.telenor.no/sso-confirm/
+Fornebu1331
+
+http://dev-sgt-app03.corp.telenor.no:6100/v1/user_service/session--------- API
+
+ Open https://rink.hockeyapp.net/  on your mobile
+username bimal.a.agarwal@accenture.com
+
+android issues----14473,14476
+
+Sprint4:
+https://source.telenor.no/wiki/pages/viewpage.action?pageId=217770060&src=contextnavpagetreemode
+https://source.telenor.no/wiki/pages/viewpage.action?pageId=217772877
+https://source.telenor.no/wiki/pages/viewpage.action?pageId=217772897 
+
+
+ to906656
+ Ranjith5678@
+
+>>pwd
+>>cd progs/ssoweb/ssoweb/6010/bin
+>>pwd
+>>./application.sh stop
+>>./application.sh start
+>> tail -f /progs/ssoweb/ssoweb/6010/log/ssoweb.log
+
+6318312663072059392
+
+tss-aEdjQR9C2jBKulEg
+tss-SZ4GxnydhDUX7m0S
+ 
+: http://test2.nettbutikk.telenor.no/sso-confirm/--- stay logged in.
+7200000
+
+x2rgt1/JgytIOgp+HL891Z8GJJill3+ZzhBxGEq95ZmqfguWFjdXw4uPJwJLabt7
+
+
+
+
+http://dev-sgt-app03.corp.telenor.no:6200/login ----------- Scc admin
+
+oUTX5N5HRuDGY0oWdwNgz0V6/cImnkxZ0SUezSh3g13QEMhhtjeKiA6mcfzmP9WO
+oUTX5N5HRuDGY0oWdwNgz0V6/cImnkxZ0SUezSh3g13QEMhhtjeKiA6mcfzmP9WO
+
+https://employeereferralprogram.accenture.com/#/index 
+
+https://tnn-sn.telenor.no/sp--- access
+
+
+https://source.telenor.no/wiki/display/SSO/Solution+Description+-+User+Story+-+SSOFT-2910+-+National+Storage+-+Provide+support+for+opt-out+for+storage+of+data+abroad
+https://source.telenor.no/wiki/display/SSO/Test+conditions+-+SSOFT-2910+%28FIM-229+specific%29+-+Stargate+-++Implement+post-auth+check+for+national+storage 
+ 
+
+EAS link: https://TEOP.easi.evry.com/
+
+
+------------------------ pre populate
+4793018188 
+testing123 
+ 
+
+
+21088749941 
+OLE THOMAS 
+HELGESEN  
+
+https://tricentis.csod.com/phnx/driver.aspx?routename=Social/UniversalProfile/Transcript&TargetUser=57153&RESET=TRUE&tab_page_id=-8
+ 
+9008524519
+
+15179--- defect
+
+
+http://www.gcreddy.com/2013/09/uft-tutorial.html
+
+
+
+ 
+go to tools>options>general tab>startup options in UFT
+ 
+
+and select Display Add-in Manager on startup 
+ 
+
+itest - nasse
+sitest - tussi
+atest - brumm
+prod - prod  
+
+https://archive.apache.org/dist/jmeter/binaries/--------------- jmeter
+
+
+https://mywizardautoarceu.accenture.com/submitService/141/MW/17418
+
+https://source.telenor.no/wiki/pages/viewpage.action?pageId=232620141 
+ 
+https://source.telenor.no/wiki/pages/viewpage.action?pageId=232620141 
+ 
+https://source.telenor.no/wiki/pages/viewpage.action?pageId=232624649
+
+
+404------- if url is not correct
+Dim re
+Set re = CreateObject("VBScript.RegExp")
+re.Pattern = "\d"
+re.Global = True
+
+msgbox "Digits: " & re.Execute(phonenumber).Count
+
+a = re.Execute(phonenumber).Count
+
+10.179.123.52:6100/v1/refresh_saml_assertion/ga_refresh 
+
+
+
+  
+http://prag.matisk.com/ssn/ 
+ 
+  
+https://www.1881.no/?query=46843249 
+  
+Laila.Ettestad@telenor.com 
+ 
+http://beust.com/eclipse/
+
+
+
+<saml:Assertion xmlns:saml="urn:oasis:names:tc:SAML:1.0:assertion" AssertionID="_49544F3030339E48BC772289A885263FEAB073C5928C850D9E" IssueInstant="2018-07-17T11:33:52Z" Issuer="Entrust Attribute Authority" MajorVersion="1" MinorVersion="1"><saml:Conditions NotBefore="2018-07-17T11:33:52Z" NotOnOrAfter="2018-07-17T12:33:52Z"><saml:AudienceRestrictionCondition><saml:Audience>https://www.telenor.no</saml:Audience></saml:AudienceRestrictionCondition></saml:Conditions><saml:AttributeStatement><saml:Subject><saml:NameIdentifier Format="http://www.entrust.com/GetAccess/names/sid">SMS_asd-sgt-ga03_64d8b4::bc86dbabb036cb673cba2a533123f845</saml:NameIdentifier></saml:Subject><saml:Attribute AttributeName="ApplicationID" AttributeNamespace="http://www.entrust.com/GetAccess/attribute"><saml:AttributeValue>0</saml:AttributeValue></saml:Attribute><saml:Attribute AttributeName="KurtId" AttributeNamespace="http://www.entrust.com/GetAccess/attribute"><saml:AttributeValue>001</saml:AttributeValue></saml:Attribute><saml:Attribute AttributeName="Roles" AttributeNamespace="http://www.entrust.com/GetAccess/attribute"><saml:AttributeValue>SystemUserSsoAPI</saml:AttributeValue></saml:Attribute><saml:Attribute AttributeName="TelenorUserId" AttributeNamespace="http://www.entrust.com/GetAccess/attribute"><saml:AttributeValue>tss-JW0AlNeZXCTm6wix</saml:AttributeValue></saml:Attribute></saml:AttributeStatement><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="TelenorSignature"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#hmac-sha1"><ds:HMACOutputLength>160</ds:HMACOutputLength></ds:SignatureMethod><ds:Reference URI="#_49544F3030339E48BC772289A885263FEAB073C5928C850D9E"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>4IZGsElxZuzo4sjp8P8HdqWLRl4=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>mmfqc/x5CiubxEgqUXcL3Q78eJE=</ds:SignatureValue></ds:Signature></saml:Assertion>]]></assertion>
+
+
+
+<soapenv:Header>
+   <wsse:Security soapenv:mustUnderstand="0" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+      <saml:Assertion xmlns:saml="urn:oasis:names:tc:SAML:1.0:assertion" AssertionID="_49544F3030339E48BC772289A885263FEAB073C5928C850D9E" IssueInstant="2018-07-17T11:33:52Z" Issuer="Entrust Attribute Authority" MajorVersion="1" MinorVersion="1"><saml:Conditions NotBefore="2018-07-17T11:33:52Z" NotOnOrAfter="2018-07-17T12:33:52Z"><saml:AudienceRestrictionCondition><saml:Audience>https://www.telenor.no</saml:Audience></saml:AudienceRestrictionCondition></saml:Conditions><saml:AttributeStatement><saml:Subject><saml:NameIdentifier Format="http://www.entrust.com/GetAccess/names/sid">SMS_asd-sgt-ga03_64d8b4::bc86dbabb036cb673cba2a533123f845</saml:NameIdentifier></saml:Subject><saml:Attribute AttributeName="ApplicationID" AttributeNamespace="http://www.entrust.com/GetAccess/attribute"><saml:AttributeValue>0</saml:AttributeValue></saml:Attribute><saml:Attribute AttributeName="KurtId" AttributeNamespace="http://www.entrust.com/GetAccess/attribute"><saml:AttributeValue>001</saml:AttributeValue></saml:Attribute><saml:Attribute AttributeName="Roles" AttributeNamespace="http://www.entrust.com/GetAccess/attribute"><saml:AttributeValue>SystemUserSsoAPI</saml:AttributeValue></saml:Attribute><saml:Attribute AttributeName="TelenorUserId" AttributeNamespace="http://www.entrust.com/GetAccess/attribute"><saml:AttributeValue>tss-JW0AlNeZXCTm6wix</saml:AttributeValue></saml:Attribute></saml:AttributeStatement><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="TelenorSignature"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#hmac-sha1"><ds:HMACOutputLength>160</ds:HMACOutputLength></ds:SignatureMethod><ds:Reference URI="#_49544F3030339E48BC772289A885263FEAB073C5928C850D9E"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>4IZGsElxZuzo4sjp8P8HdqWLRl4=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>mmfqc/x5CiubxEgqUXcL3Q78eJE=</ds:SignatureValue></ds:Signature></saml:Assertion>]]></assertion>
+
+              
+    </wsse:Security>
+   </soapenv:Header>
+
+https://archive.apache.org/dist/jmeter/binaries/
